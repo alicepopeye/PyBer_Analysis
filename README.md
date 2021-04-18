@@ -7,10 +7,12 @@ We will pick a sampled date between 2019 Jan and Apr to analyize the weekly fare
 
 # # Results
 
-references: 1) Image-pyber_summary_df  
+references:   
+            1) Image-pyber_summary_df  
             2) references: Chart-Pyber_fare_summary  
 
-In term of total rides, rural has only 125 rides (5%) of the total rides (2375). Lesser rides, lesser income. The  fare for rural is $4327.93 (7%) of the total fares.  
+In term of total rides, rural has only 125 rides (5%) of the total rides (2375). Lesser rides, lesser income. 
+The  fare for rural is $4327.93 (7%) of the total fares.  
 For Suburban area, it has 626 (26%) of the total rides, and the fare is $19,356.33 (30%) of the total fares.  
 For Urban area, it has 2375 (68%) of the total rides, and the fare is $39,854.38 (63%) of the total fares.  
 So we can confirm the fare is increase proportionally with the number of rides.  
